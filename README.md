@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Jubilee (a.k.a the Ultimate sidekick)
 D3 Reusable Components Library
 
@@ -7,7 +6,6 @@ This repository is still in its early stage, so things may not work properly.
 =======
 # Jubilee
 Basic D3 charts library
->>>>>>> 43b24181d78382e4e6f4c2d64101d4913c9a074e
 
 ## Environment Setup
 Fork the repository. You will need node, npm, and grunt. Change into the project's root directory.

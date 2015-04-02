@@ -1,4 +1,4 @@
-# Elasti
+# Jubilee
 Basic D3 charts library
 
 ## Environment Setup
